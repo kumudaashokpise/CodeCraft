@@ -25,4 +25,4 @@ Here's a simple website with the required features using HTML and CSS. This incl
 This project is a fully responsive social media platform built using **HTML**, **CSS**, and **JavaScript**. It includes features like a mobile-friendly design, swipe navigation for touch devices, dark mode with a toggle between a sun and moon icon, and a well-structured, clean user interface. The app is designed to adapt to different screen sizes, ensuring a seamless experience on both mobile and desktop devices.
 ![Screenshot 2024-09-20 140605](https://github.com/user-attachments/assets/21d17b8c-773d-4620-8f28-889a39852770)
 
-## Click on the link to check out the website:- https://simple-web.static.domains/index.html
+## Click on the link to check out the website:- [https://simple-web.static.domains/index.html](https://66ed4045b962d521178f8a69--rainbow-crumble-e9ebad.netlify.app/)
